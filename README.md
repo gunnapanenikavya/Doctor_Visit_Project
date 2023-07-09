@@ -6,6 +6,7 @@ By Conducting this Mini Project, we gain valuable insights into the Healthcare I
 # Project Outputs
 
 ![image](https://github.com/gunnapanenikavya/Doctor_Visit_Project/assets/139001553/6cef0d15-74e6-4223-b98f-7ab92d3ef1ff)
+
 ![image](https://github.com/gunnapanenikavya/Doctor_Visit_Project/assets/139001553/80b96b8a-fc13-4f76-8fae-3a28cda5ec79)
 ![image](https://github.com/gunnapanenikavya/Doctor_Visit_Project/assets/139001553/5d5655be-c585-4500-b078-7bce8ac37965)
 ![image](https://github.com/gunnapanenikavya/Doctor_Visit_Project/assets/139001553/561a73c3-701b-4552-a9f3-fbbdb094c2ba)
