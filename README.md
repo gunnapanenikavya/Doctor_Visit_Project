@@ -3,5 +3,6 @@ In this Mini project, we Explore the power of Data science in Analyzing Doctor v
 
 By Conducting this Mini Project, we gain valuable insights into the Healthcare Industry and how data science can be used to Improve patient care and outcomes. With the Increasing amount of healthcare data being Generated every day, it is important for healthcare professionals to embrace data science and leverage its power to Drive innovation and Progress.
 
-#Project Outputs
+# Project Outputs
+
 ![image](https://github.com/gunnapanenikavya/Doctor_Visit_Project/assets/139001553/6cef0d15-74e6-4223-b98f-7ab92d3ef1ff)
