@@ -1,0 +1,16 @@
+﻿unnamed:0,visits,gender,age,Income,illness,reduced,health,private,freepoor,freerepat,nchronic,Ichronic
+1,1,female,0.19,0.55,1,4,1,yes,no,no,no,no
+2,1,female,0.19,0.45,1,2,1,yes,no,no,no,no
+3,1,male,0.19,0.9,3,0,0,no,yes,no,no,no
+4,1,male,0.19,0.15,1,0,0,no,no,no,no,no
+5,1,male,0.19,0.45,2,5,1,no,no,no,yes,no
+6,1,female,0.19,0.35,5,1,9,no,no,no,yes,no
+7,1,female,0.19,0.55,4,0,2,no,no,no,no,no
+8,1,female,0.19,0.15,3,0,6,no,yes,no,no,no
+9,1,female,0.19,0.65,2,0,5,yes,no,no,no,no
+10,1,male,0.19,0.15,1,0,0,yes,no,no,no,no
+11,1,male,0.19,0.45,1,0,0,no,no,no,no,no
+12,2,male,0.19,0.25,2,0,2,no,no,yes,no,no
+13,1,male,0.19,0.55,3,13,1,no,no,no,yes,no
+14,1,male,0.19,0.45,4,7,6,no,no,no,yes,no
+15,1,male,0.19,0.25,3,1,0,yes,no,no,yes,no
